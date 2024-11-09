@@ -7,10 +7,8 @@ export default function Home() {
       <header className="px-4 sm:px-6 lg:px-10 py-6">
         <nav className="flex justify-end">
           <ul className="flex flex-wrap justify-center space-x-4 sm:space-x-8 text-white">
-            <li><a href="#" className="hover:text-red-600 transition-colors">Home</a></li>
-            <li><a href="#" className="hover:text-red-600 transition-colors">Skills</a></li>
             <li><a href="#" className="hover:text-red-600 transition-colors">Projects</a></li>
-            <li><a href="#" className="hover:text-red-600 transition-colors">Contact</a></li>
+            <li><a href="#" className="hover:text-red-600 transition-colors">About Me</a></li>
           </ul>
         </nav>
       </header>
@@ -36,7 +34,7 @@ export default function Home() {
             I'm a <span className="text-red-600">Developer</span>
           </h3>
           <p className="text-gray-400 mb-6 max-w-2xl mx-auto lg:mx-0">
-            Software Developer by day, epic fantasy buff by night, I bring creativity and precision to every project. I'm passionate about crafting innovative solutions that make a difference. Explore my work, check out my skills, and let's collaborate to turn your ideas into reality.
+          Hey, I’m Leaderson—a fullstack developer who’s all about creating smooth, responsive interfaces and efficient backends that just work. I enjoy tackling challenging problems(well, not enjoy them but a guy's gotta eat). I do enjoy bringing ideas to life with clean, reliable code. Take a look at my projects to see what I’m building.
           </p>
 
           <div className="flex justify-center lg:justify-start space-x-4 mb-6">
