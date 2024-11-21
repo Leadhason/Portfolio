@@ -32,7 +32,7 @@ export default function Home() {
           <h2 className="text-2xl sm:text-3xl mt-2 mb-4 sm:mb-6">
             I'm a <span className="text-red-600">Developer</span>
           </h2>
-          <p className="text-gray-400 mb-6 max-w-2xl mx-auto lg:mx-0">
+          <p className="mb-6 max-w-2xl mx-auto lg:mx-0">
             Hey there! I'm Leaderson Kussiba, a fullstack developer and a student, with a passion for building slick, high-performing applications that make people’s lives a bit easier—and maybe a bit more fun.
             When I'm not buried in code, you can catch me in the middle of an epic fantasy book, leveling up in a video game, or tinkering with some DIY electronics. Take a look at what I'm building
           </p>
